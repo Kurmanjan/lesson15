@@ -1,4 +1,4 @@
 package com.company;
 
-public class Magical extends Warrior {
+public class Magical extends Player {
 }
