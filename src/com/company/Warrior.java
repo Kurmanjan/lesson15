@@ -1,5 +1,5 @@
 package com.company;
 
-public class Warrior extends Boss {
+public class Warrior extends Player {
 
 }
